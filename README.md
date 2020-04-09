@@ -1,3 +1,2 @@
 # High-School-Management-System
-This is simple project
-using java swing and Mysql is used as database.
+Simple project based on java swing and Mysql database for project-200.
